@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/React-Practicas-generales-Routes/static/css/main.e7720ab7.css",
-    "main.js": "/React-Practicas-generales-Routes/static/js/main.e2c04aa2.js",
+    "main.js": "/React-Practicas-generales-Routes/static/js/main.a9739d70.js",
     "index.html": "/React-Practicas-generales-Routes/index.html",
     "main.e7720ab7.css.map": "/React-Practicas-generales-Routes/static/css/main.e7720ab7.css.map",
-    "main.e2c04aa2.js.map": "/React-Practicas-generales-Routes/static/js/main.e2c04aa2.js.map"
+    "main.a9739d70.js.map": "/React-Practicas-generales-Routes/static/js/main.a9739d70.js.map"
   },
   "entrypoints": [
     "static/css/main.e7720ab7.css",
-    "static/js/main.e2c04aa2.js"
+    "static/js/main.a9739d70.js"
   ]
 }
